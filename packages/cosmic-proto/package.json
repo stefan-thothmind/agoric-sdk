@@ -39,7 +39,7 @@
     "lint-fix": "exit 0"
   },
   "dependencies": {
-    "protobufjs": "^7.0.0"
+    "protobufjs": "^7.2.4"
   },
   "devDependencies": {
     "ts-proto": "^1.131.0"
