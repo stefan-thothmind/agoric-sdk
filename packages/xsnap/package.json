@@ -36,7 +36,7 @@
     "@endo/promise-kit": "^0.2.52",
     "@endo/stream": "^0.3.21",
     "@endo/stream-node": "^0.2.22",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "rollup-plugin-string": "^3.0.0"
   },
   "devDependencies": {
