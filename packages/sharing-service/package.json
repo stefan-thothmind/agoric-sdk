@@ -28,7 +28,7 @@
   "homepage": "https://github.com/Agoric/agoric-sdk#readme",
   "dependencies": {
     "@agoric/assert": "^0.5.1",
-    "@endo/marshal": "^0.8.1"
+    "@endo/marshal": "^1.0.0"
   },
   "devDependencies": {
     "@agoric/swingset-vat": "^0.30.2",
