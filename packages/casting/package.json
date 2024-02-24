@@ -29,9 +29,9 @@
     "@cosmjs/proto-signing": "0.29.0",
     "@cosmjs/stargate": "0.29.0",
     "@cosmjs/tendermint-rpc": "0.29.0",
-    "@endo/far": "^0.2.14",
-    "@endo/init": "^0.5.52",
-    "@endo/lockdown": "^0.1.24",
+    "@endo/far": "^0.2.16",
+    "@endo/init": "^1.0.0",
+    "@endo/lockdown": "^1.0.0",
     "@endo/marshal": "^0.8.1",
     "@endo/promise-kit": "^0.2.52",
     "node-fetch": "^2.6.0"
