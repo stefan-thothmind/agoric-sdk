@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "@endo/eventual-send": "^0.16.8",
-    "@endo/marshal": "^0.8.1",
-    "@endo/promise-kit": "^0.2.52",
+    "@endo/marshal": "^1.0.0",
+    "@endo/promise-kit": "^1.0.0",
     "jessie.js": "^0.3.2"
   },
   "devDependencies": {
