@@ -33,8 +33,8 @@
     "@agoric/vat-data": "^0.4.3",
     "@agoric/zoe": "^0.25.3",
     "@endo/eventual-send": "^0.16.8",
-    "@endo/marshal": "^0.8.1",
-    "@endo/promise-kit": "^0.2.52",
+    "@endo/marshal": "^1.0.0",
+    "@endo/promise-kit": "^1.0.0",
     "import-meta-resolve": "^2.2.1"
   },
   "keywords": [],
