@@ -20,7 +20,7 @@
   "dependencies": {
     "@agoric/assert": "^0.5.1",
     "@agoric/internal": "^0.2.1",
-    "better-sqlite3": "^7.5.0",
+    "better-sqlite3": "^7.5.3",
     "tmp": "^0.2.1"
   },
   "devDependencies": {
