@@ -29,7 +29,7 @@
   "dependencies": {
     "@agoric/assert": "^0.5.1",
     "@agoric/internal": "^0.2.1",
-    "@endo/bundle-source": "^2.4.2",
+    "@endo/bundle-source": "^3.0.0",
     "@endo/eventual-send": "^0.16.8",
     "@endo/init": "^0.5.52",
     "@endo/netstring": "^0.3.22",
