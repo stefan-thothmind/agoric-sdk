@@ -23,7 +23,7 @@
     "@endo/eventual-send": "^0.16.8",
     "@endo/marshal": "^0.8.1",
     "@endo/promise-kit": "^0.2.52",
-    "jessie.js": "^0.3.2"
+    "jessie.js": "^0.3.4"
   },
   "devDependencies": {
     "@endo/init": "^0.5.52",
