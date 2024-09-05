@@ -37,7 +37,7 @@
     "@agoric/swingset-vat": "^0.30.2",
     "@agoric/vats": "^0.13.0",
     "@agoric/zoe": "^0.25.3",
-    "@endo/bundle-source": "^2.4.2",
+    "@endo/bundle-source": "^3.0.0",
     "@endo/captp": "^2.0.18",
     "@endo/far": "^0.2.14",
     "@endo/init": "^0.5.52",
