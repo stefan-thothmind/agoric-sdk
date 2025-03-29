@@ -45,7 +45,7 @@
     "@cosmjs/proto-signing": "0.29.0",
     "@cosmjs/stargate": "0.29.0",
     "@cosmjs/tendermint-rpc": "0.29.0",
-    "@endo/bundle-source": "^2.4.2",
+    "@endo/bundle-source": "^4.0.0",
     "@endo/captp": "^2.0.18",
     "@endo/compartment-mapper": "^0.8.0",
     "@endo/far": "^0.2.14",
